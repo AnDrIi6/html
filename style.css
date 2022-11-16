@@ -1,0 +1,57 @@
+h1,h2{
+    font-family: 'Sono', sans-serif;
+}
+.one{
+background-color: red;
+border: 5px solid gold;
+color:blue;
+font-size: 120%;
+font-family: 'Oswald', sans-serif;
+font-family: 'Sono', sans-serif;
+}
+.two{
+background-color: blue;
+border: 5px solid orangered;
+color:yellowgreen;
+font-size: 120%;font-family: 'Oswald', sans-serif;
+font-family: 'Sono', sans-serif;
+}
+.three{
+background-color: yellow;
+border: 5px solid silver;
+color:red;
+font-size: 120%;
+font-family: 'Oswald', sans-serif;
+font-family: 'Sono', sans-serif;
+}
+.four{
+background-color: green;
+border: 5px solid indigo;
+color: fuchsia;
+font-size: 120%;
+font-family: 'Oswald', sans-serif;
+font-family: 'Sono', sans-serif;
+}
+p{
+color: forestgreen;
+font-family: 'Alata', sans-serif;
+}
+li{
+color:maroon;
+font-family: 'Alata', sans-serif;
+}
+
+table,tr,td,th{
+text-align: center;
+background-color: silver;
+color:black;
+font-weight: bold;
+table-layout: fixed;
+width: 100%;
+border-collapse: collapse;
+border: 4px solid goldenrod;
+font-family: 'Alata', sans-serif;
+}
+th{
+color: blueviolet;
+}
